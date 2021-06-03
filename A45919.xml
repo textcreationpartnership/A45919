@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Insolence and impudence triumphant the mirrour of malice and madness in a late treatise entituled A discourse of ecclesiastical polity &amp;c. or, the lively portraiture of Mr. S.P. limn'd and drawn by his own hand, and a brief view of his tame and softly, alias wild and savage humour : as also some account of his cold &amp; frigid, i.e. fiery complexion ... : together with a complication of notorious errors, repugnant to the doctrine of the Church of England.</title>
+         </titleStmt>
+         <extent>Approx. 43KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45919</idno><idno type="EEBO-CITATION">12243310</idno>
+  <idno type="VID">56839</idno>
+  <idno type="EEBO-PROQUEST">2240961232</idno>
+  
+            <idno type="STC">Wing I226</idno>
+            <idno type="STC">ESTC R31666</idno>
+            <idno type="OCLC">12243310</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45919)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56839)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1506:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Insolence and impudence triumphant the mirrour of malice and madness in a late treatise entituled A discourse of ecclesiastical polity &amp;c. or, the lively portraiture of Mr. S.P. limn'd and drawn by his own hand, and a brief view of his tame and softly, alias wild and savage humour : as also some account of his cold &amp; frigid, i.e. fiery complexion ... : together with a complication of notorious errors, repugnant to the doctrine of the Church of England.</title>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Parker, Samuel, 1640-1688. --  Discourse of ecclesiastical politie.</term>
+               <term type="topical_term">Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56839:1"/>
+            <p>
+               <hi>Insolence and Impudence triumphant; Envy and Fury enthron'd:</hi> THE Mirrour of Malice and Madness, In a late Treatise, Entituled, <hi>A Discourse of Ecclesiastical Polity, &amp;c.</hi>
+            </p>
+            <p>OR, The lively Portraiture of Mr. <hi>S. P.</hi> Limn'd and drawn by his own hand: AND A brief View of his Tame and Softly, <hi>Alias,</hi> Wild and Savage Humour: As also, Some account of his cold &amp; frigid, <hi>i.e.</hi> fiery Complexion.</p>
+            <p>Being (in short) a Collection of some of his Intemperate Railings and Prophane Satyrs; wherein he hath abused Religion and the Power of Godliness, Droll'd on Piety, and all things Sacred.</p>
+            <p>
+               <hi>Together with</hi> A Complication of notorious Errors, Repugnant to the Doctrine of the Church of ENGLAND.</p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Heb. 11.36.</hi>
+                  </bibl> Others had tryal of cruel Mockings.</p>
+               <p>
+                  <bibl>
+                     <hi>Matth. 15.9.</hi>
+                  </bibl> Teaching for Doctrines, the Commandments of men.</p>
+            </q>
+            <p>Printed in the Year 1669.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:56839:2"/>
+            <pb facs="tcp:56839:2"/>
+            <head>To the Conscientious READER; Whether <hi>Conformist</hi> or <hi>Nonconsormist.</hi>
+            </head>
+            <opener>
+               <salute>Christian Reader,</salute>
+            </opener>
+            <p>NO sooner had our late Civil Feuds (of deplored memory) deter<g ref="char:EOLhyphen"/>mined, when the Church ran the same fortune with the State; Schisms and Divisions rent the Professors of Religion, and Ecclesiastical Wars followed the National. His Majesty happily restored, some wise men, reflecting on those numerous Errors and Heresies vented amongst us under the former Changes of Govern<g ref="char:EOLhyphen"/>ment, thought that their Birth and Original did greatly owe it self to the slackning the Reins of Church-Rule and Order. To heal which Distempers, they conceived nothing more effectual, than the pressing of all to a rigorous Uniformity. Accordingly Acts to that purpose were made by our great Representatives, formed by the Royal Assent into Established Laws. But Men are fallible; nor can we expect our Sena<g ref="char:EOLhyphen"/>tors should be Prophets. It hath been since understood that 'tis impossi<g ref="char:EOLhyphen"/>ble to reconcile the different Apprehensions of Mankind in Religious Af<g ref="char:EOLhyphen"/>fairs; and that external Force in matters of Conscience, may make Hypocrites, but few Converts; Differences have not been lessoned, but rather improved. And at this day were it throughly examined, Tole<g ref="char:EOLhyphen"/>ration did not produce more Hereticks formerly, than the <hi>contra</hi> pro<g ref="char:EOLhyphen"/>ceedings have done since. Our Gracious Soveraign (many are disposed to hope) hath lately received other Impressions, (and with him those whose Reputation for Discretion and Loyalty, Envy it self cannot taint.) He has not yet said, That the modest and humble desires of some for Li<g ref="char:EOLhyphen"/>berty of Conscience, do displease Him; nor is Indulgence <hi>(a word soun<g ref="char:EOLhyphen"/>ding so harsh in some Ears)</hi> heard with any professed aversion, as they do believe. A sober, due, and well-stated Liberty, is presumed at pre<g ref="char:EOLhyphen"/>sent <hi>England's Grand Interest,</hi> both on a Civil and Spiritual Ac<g ref="char:EOLhyphen"/>count. Trade, the Support and Splendour of the Nation, manifestly
+<pb facs="tcp:56839:3"/>decayed, (as witness both the Sword, Plague, and Fire) most likely to be repaired that way: And Piety, the Honour and Happiness of any People, probably to flourish; besides, Catholick Charity <hi>(so inge<g ref="char:EOLhyphen"/>niously pleaded for of late)</hi> will succeed those heats and passions, which have been too predominant amongst us. Matters in this posture, whilst the poor Nonconformists please themselves with the hopes of Li<g ref="char:EOLhyphen"/>berty, some who thought it their Interest to oppose it, quickned by the fears of the Universal Expectation, and suspitious of his <hi>Majesties Clemency</hi> to sober and peaceable Dissenters, bestir themselves; preach, print Invectives against their Christian Brethren; heap Slanders, Ca<g ref="char:EOLhyphen"/>lumnies, and Reproaches upon them; and not content to brand them as very Fools, Sots, and Mad-men; they represent them all in general Enemies to Government, Anti-Monarchists, and what not? Immoral in their Lives, corrupt in their Principles, meer Hypocrites in Religion, proud, insolent, peevish, male-content, with a thousand other base and dirty terms: And yet have the shameless impudence to preface such Dis<g ref="char:EOLhyphen"/>courses with a Protestation of their Calmness and Candour, <hi>That they have no Gall, are of a tame and softly humour,</hi> &amp;c. Amongst all which Books (for the Licentious Press hath brought forth a whole Rout of them) I have singled out one, entituled, <hi>A Discourse of Ec<g ref="char:EOLhyphen"/>clesiastical Polity,</hi> &amp;c. Not to answer the Author: For such a Co<g ref="char:EOLhyphen"/>lossus of Wit, such a Giant in Understanding, (as he modestly all along characters himself) is not to be encountred by <hi>a puny Adversary:</hi> They must not be little Cattel to nibble at a Reply, (it is a new-coyn'd Meta<g ref="char:EOLhyphen"/>phor of his own) but such as can bite till their Teeth meet, to keep to his Animal Allusion. I onely design to present the Reader with some few of the many Passages in his Book, wherein Passion, Pride, Preju<g ref="char:EOLhyphen"/>dice, Scorn, Contempt and Insolence, appear with that bold Forehead and daring Confidence, as the whole World will scarce fellow him. That a young <hi>Pragmaticus</hi> so magisterially should Sit and Judge, Censure and Sentence the whole Universe, as 'twere; is such a monstrous piece of Arrogance, as I know not how to think on't with any tolerable pa<g ref="char:EOLhyphen"/>tience. In him methinks I view that Philistine-Monster coming forth, and bidding Defiance to the Hosts of Israel. But that which would amaze all who have the least Sentiments of Religion, in his Preface he calls his Railing Rhetorick, the Dictates of <hi>the Just and Pious Re<g ref="char:EOLhyphen"/>sentments of his Mind;</hi> would cloath a Diabolical Fury in the Garb
+<pb facs="tcp:56839:3"/>of Piety. How dares he term these Stygian Streams, the Waters of the Sanctuary, and adopt his Extravagancies into the Family of Religion? What, doth he attempt to confute Atheists, whose Writings do directly tempt to Atheism? Besides, rather than his bitter, rash, wicked speak<g ref="char:EOLhyphen"/>ing shall not be excused, our Blessed Saviour must be brought on the Stage, as seeming to countenance it; and his <hi>whipping the Buyers and Sellers out of the Temple,</hi> must be his Apology for the intemperate Lashes of his Tongue; <hi>a Tongue set on Fire of Hell.</hi> And then in his heat, forgets a due Reverence to God himself, and madly accuses Christ Jesus of being in a <hi>hot Fit of Zeal, Transport of Passion, and at the very height of Impatience.</hi> Into what Sins and Follies will unsanctified Wit, and proud Self-admiration, precipitate a man! Nor is he less Savage and Cruel, than Prophane; all along inciting the Magistrates to the utter Extirpation of Phanaticks; telling them its much safer <hi>to tolerate Open Debaucheries, than Liberty of Con<g ref="char:EOLhyphen"/>science.</hi> Urging for severer Laws against Nonconformists. Is this the Spirit of a Christian? Nay, and a Minister of the Gospel? But peace, this Master of Reason can justifie himself, and produce Scripture to si<g ref="char:EOLhyphen"/>lence us; Did not the Disciples once call for <hi>Fire from Heaven</hi> to con<g ref="char:EOLhyphen"/>sume their Enemies? If he had said this was <hi>a hot Fit of Zeal,</hi> or ra<g ref="char:EOLhyphen"/>ther Fury, none would have disputed it. But whither doth a Just Indig<g ref="char:EOLhyphen"/>nation carry me? Read but the ensuing Collections, they are his own Words; suspend thy Judgement of the Man, till thou hast perused them, and then, if thou canst, have other thoughts of him than my self. How doth he Rant and Rail against Nonconformists! How prophane and impious in his flouts and jears. How doth he droll upon Religion and its sincere Adorers? and yet in his discoursing with Atheists, condemn them for it. <hi>Thou that abhorrest Idols, dost thou commit Sacri<g ref="char:EOLhyphen"/>lege!</hi> I dare to say, from a considerate view of his furious temper and spirit, he accounts that Scripture Apocripha, <hi>Let your moderation be known unto all men, for the Lord's at hand.</hi> Do but see the strange unheard of Notions he hath asserted: Oh! what a brave large Conscience has this Gentleman now purchased, that scorns to wince or boggle at those things, would scare and fright any other Man's al<g ref="char:EOLhyphen"/>most. I am informed that at his Induction into Orders, he peremptorily refused the Ceremony of <hi>bowing towards the Altar,</hi> but <hi>tempor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mutatur ab illis,</hi> he is changed now sufficiently, and I am apt to think
+<pb facs="tcp:56839:4"/>from his discourse of a publick Conscience, should Church or State command the <hi>Mass</hi> or <hi>Alchoran</hi> to be used in room of the Liturgy, he would conform to it. Nay, should <hi>Jupiter,</hi> or any other Heathen Deity be set up, he would not be a <hi>Nonconformist.</hi> Alas! the three Chil<g ref="char:EOLhyphen"/>dren were but shallow for not worshipping the Kings Image; they had <hi>tender Heads</hi> as well as <hi>tender Consciences:</hi> Our <hi>Vertuoso</hi> hath learn'd more wit, than he had few years since; and the advance to his <hi>Graces Chaplainship,</hi> hath almost made him <hi>Graceless.</hi> So true is that common saying, <hi>Honours change mens minds and manners.</hi> He can now accuse his fellow Christians of Sedition, Hypocrisie, Rebel<g ref="char:EOLhyphen"/>lion, Schism, Faction, Immorality, Impiety and Disobedience: call them Cattel, Vermin, <hi>(but having occasion to speak of the Pope, the old Gentleman at</hi> Rome <hi>is his worst title)</hi> and after all wipe his mouth and say, I have done no evil. For my part (till God give him repentance) I must and will look upon him as the perfect Image of the great Accuser of the Brethren, one who may very well claim Kindred with him. But I need not draw his Picture, he hath done it himself in his Book, where the Reader may see his complexion, and judge whe<g ref="char:EOLhyphen"/>ther it be cold or no, as he professes. A Flint is indeed of a cold com<g ref="char:EOLhyphen"/>plexion, yet full of fire within: because he will needs have it so, I will grant him to be what he sayes; but I am sure he hath struck out not on<g ref="char:EOLhyphen"/>ly sparks but flames of fire. <hi>Latet Anguis in Herba.</hi> Who that should read those Expressions in his Preface, <hi>how tame a nature</hi> he hath, of what a <hi>softly sweet temper</hi> he is, could suspect him so grand a cheat. If ever any man sat in the <hi>Chair of the scornful,</hi> and with an impe<g ref="char:EOLhyphen"/>rious and insolent Aspect viewed his Brethren, he hath done it to pur<g ref="char:EOLhyphen"/>pose. And if God pronounce them blessed who place not themselves there, we know what they deserve who chuse it. His proud and impe<g ref="char:EOLhyphen"/>rious conclusion, <hi>What I have written, I have written;</hi> and daring his Opponents to Reply; merits both pity and laughter: I cannot but pity his palpable vanity and conceitedness, and smile at his bravado. He knows he is secure enough from a smart and home return. For who shall License an <hi>Answer</hi> to his Book, not his <hi>Grace's Chaplain</hi> I'le war<g ref="char:EOLhyphen"/>rant ye. It used to be a jest in old time, <hi>Why do the Puritans speak through the Nose? Because the Bishops stopt their Mouths.</hi> Mr. <hi>P.</hi> hath clearly the advantage, he can Prate, Preach and Print what he please, and his Arguments <hi>(happy man)</hi> are of that force, that his
+<pb facs="tcp:56839:4"/>ablest <hi>Adversaries</hi> dare not enter the Lists with him. But, pray Sir, let me whisper a word in your Ear, They want not strength of Reason, or dint of Arguments, but that you call a <hi>Licence,</hi> and your Worship they hope has more wit then to suffer a Confutation to your Book to come forth in publick <hi>Cum Privilegio.</hi> How vain and foolish is his confi<g ref="char:EOLhyphen"/>dence then? For shame leave bragging of your abilities, and insulting over the silence of your Opponents; you are not to be resolved what is the true Reason; suffer but the Press the freedom only of contending with your self, and then cry <hi>Victoria</hi> when you have cleared the Field. But the <hi>Nonconformists</hi> are not to expect that favour from you. How<g ref="char:EOLhyphen"/>ever, in time possibly the Book may receive an <hi>Answer</hi> by some skillful Pen; and indeed the Glory of God, and vindication of his injured Truth and Honour, really obliges to that service and undertaking. In the mean while <hi>Reader,</hi> take a short view of the <hi>Author</hi>'s spirit, where<g ref="char:EOLhyphen"/>in rancour, malice and revenge, are lively displayed. I just now re<g ref="char:EOLhyphen"/>member the story: A Bishop arms himself against his Soveraign, and taken prisoner in warlike habilimemts, the <hi>Pope</hi> interceeds for him; upon which his Coat of Mail was sent to <hi>Rome</hi> with this saying, <hi>Vide, an haec sit tunica filii tui?</hi> Whoever thou art, that reads the following <hi>Excerpta,</hi> judge whether such language becomes a Christian, or suit the meekness, sobriety and love, which our Blessed Saviour taught and practised. But the <hi>Author</hi> blushes to be guilty of such weakness; the Primitive Christians were men of poor and low spirits; he thinks Christianity carries a better grandeur and authority, when set off with invectives, smart and angry Satyrs and Anathema's, against all who have not an implicit Faith in following his guidance. And indeed he is so outragious in his expressions, Penning his Book in so furious a dia<g ref="char:EOLhyphen"/>lect, that his Name may be very well changed into <hi>Barker,</hi> as an <hi>Ho<g ref="char:EOLhyphen"/>nourable Person</hi> is said to Christen him by. <hi>Now from all such Arch-Chaplains,</hi> Libera Nos.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:56839:5"/>
+            <pb n="9" facs="tcp:56839:5"/>
+            <head>The Portraiture of Mr. <hi>S. Parker</hi>'s Spirit, &amp;c.</head>
+            <div type="part">
+               <head>Prophane Jeers and Satyrs.</head>
+               <p>FOr of all <hi>Villains,</hi>
+                  <note place="margin">
+                     <hi>Preface,</hi> pag. 53.</note> the well-meaning <hi>Zealot</hi> is the most dangerous; their <hi>Godliness</hi> makes them bold &amp; furious: And however their Attempts succeed, they are sure of the Rewards of Saints and Mar<g ref="char:EOLhyphen"/>tyrs.</p>
+               <p>
+                  <hi>Ibid.</hi> And what so glorious as to lose their Lives in the <hi>Cause of God?</hi> One would think the world were not now to be taught that there is nothing so difficult to be managed as <hi>godly Zeal.</hi>
+               </p>
+               <p>Page 13. <hi>Religion</hi> sanctifies all their Passions; Anger, Malice and Bitterness, are <hi>holy Fervours</hi> in the <hi>Cause of God.</hi>
+               </p>
+               <p>
+                  <hi>Ibid.</hi> Zeal for the Glory of God will both excuse and justifie any Enormity.</p>
+               <p>
+                  <hi>Ibid.</hi> Arm'd with <hi>Religion,</hi> and led on by the <hi>Spirit of God,</hi> to disturb the publick peace, <hi>&amp;c.</hi>
+               </p>
+               <p>P. 15. And when <hi>Passion</hi> becomes <hi>holy,</hi> then it can never be exorbitant.</p>
+               <p>P. 16. And thus are their <hi>Vices sanctified</hi> by their <hi>Consciences.</hi>
+               </p>
+               <p>P. 57. Filling the World with a <hi>buzze</hi> and <hi>noise</hi> of the <hi>Divine Spirit.</hi>
+               </p>
+               <p>P. 73. And better be lewd and debauched, than live an honest and vertuous Life, if you are not of the <hi>godly party.</hi>
+               </p>
+               <p>P. 74. And instead of a sober Devotion, they have brought in a more spiritual and intimate way of Communion with God, that in <hi>truth</hi> consists in little <hi>else</hi> but meeting together in private, to prate Phrases, make Faces, and rail against Carnal Reason, <hi>i. e.</hi> in their sense all sober and sincere use of our Understandings in spiritual matters.</p>
+               <p>Their Piety then <hi>sanctified Fury.</hi>
+               </p>
+               <pb n="10" facs="tcp:56839:6"/>
+               <p> P. 150. When <hi>Passion</hi> is fired with <hi>Religious Zeal,</hi> nothing can temper its outragious and <hi>Fanatick Heats.</hi>
+               </p>
+               <p>P. 151. No <hi>malice</hi> so spiteful and implacable, as the <hi>Zeal</hi> of a <hi>godly Party;</hi> nor any <hi>Rage</hi> so fierce and merciless as <hi>sanctied Bar<g ref="char:EOLhyphen"/>barism.</hi>
+               </p>
+               <p>
+                  <hi>Ibid.</hi> All the Ancient Tyranny has in some places been out<g ref="char:EOLhyphen"/>done by a thorough <hi>Godly</hi> Reformation.</p>
+               <p>P. 168. It is an Eternal Truth, that for the <hi>godly Party</hi> not to be uppermost, is and ever will be Persecution.</p>
+               <p>P. 178. All the <hi>pious Villanies</hi> that have ever disturbed the Chri<g ref="char:EOLhyphen"/>stian World, have sheltered themselves in this Grand Maxim, That Jesus Christ is the onely Law-giver to his Church.</p>
+               <p>P. 263. When to pick Quarrels with the Laws, <hi>&amp;c.</hi> shall be made the specifick Character of the <hi>godly Party,</hi> and when <hi>giddy</hi> and <hi>humerous Zeal,</hi> shall not onely excuse but <hi>hallow</hi> Disobedience, when every one that hath Pride enough to fancy himself a <hi>Child of God,</hi> shall have license to despise Authority, and do what he list.</p>
+               <p>P. 267. The last Refuge for <hi>godly Disobedience, &amp;c.</hi>
+               </p>
+               <p>P. 278. It is a glorious thing to suffer for a <hi>tender Conscience &amp;c.</hi> and then what Godly men are they, that are so ready to be punish<g ref="char:EOLhyphen"/>ed for a <hi>good Conscience!</hi> It is their <hi>Ephod</hi> and their <hi>Terraphim, i. e.</hi> the onely mark of their <hi>Godliness,</hi> and symbol of their <hi>Religion,</hi> and if you rob them of that, you take away their <hi>Gods, and what have they more?</hi>
+               </p>
+               <p>P. 282. And to endure neither Laws nor Superiours, because they are <hi>proud</hi> enough to think themselves more <hi>holy</hi> than their <hi>Neighbours.</hi>
+               </p>
+               <p>P. 284. Now to permit these Men their Liberty, who mistake <hi>Insolence</hi> for <hi>Tenderness of Conscience;</hi> is to indulge <hi>Zealous Idiots</hi> in their Folly, and to infest their Government with a <hi>sullen and cross-grain'd Godliness.</hi>
+               </p>
+               <p>322. And when they are once let loose, who then can set Bounds to the <hi>Wildnesses</hi> of <hi>Godly Madness?</hi>
+               </p>
+               <p>And if they will endure to be checked, <hi>&amp;c.</hi> by every <hi>Systema<g ref="char:EOLhyphen"/>tical Theologue</hi> (and most, not to say the best, of our Adversaries are little better) <hi>&amp;c.</hi>
+               </p>
+               <pb n="11" facs="tcp:56839:6"/>
+               <p> P. 307. From all the Disturbances of a <hi>peevish</hi> and <hi>wayward Godliness.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Greater Safety in Tolerating Open Debaucheries, than Liberty of Conscience.</head>
+               <p>
+                  <hi>Pref.</hi> P. 53. If Princes would but consider how liable Mankind are to abuse themselves with <hi>serious</hi> and <hi>conscientious Villanies,</hi> they would quickly see it to be absolutely necessary to the Peace and Happiness of their Kingdoms, that there be set up a more severe Government over mens <hi>Consciences</hi> and Religious Perswasions, than over their <hi>Vices</hi> and Immoralities.</p>
+               <p>
+                  <hi>Ibid.</hi> I shall refer the Reader to my Book, where I think I have proved enough to satisfie any Man of an Ordinary Understanding, That Princes may with less hazzard give Liberty to Mens <hi>Vices</hi> and Debaucheries, than to their Consciences.</p>
+               <p>P. 17. When the Vertues of the <hi>Godly</hi> are more pregnant with mischief and <hi>villany,</hi> than the Vices of the Wicked.</p>
+               <p>P. 18. Now when 'tis so difficult for Magistrates to remove these <hi>Religious Vices,</hi> or to bridle their Unruliness, they must needs find it an incomparably harder Task to restrain the Extrava<g ref="char:EOLhyphen"/>gancies of <hi>Zeal,</hi> than of <hi>Lewdness and Debauchery.</hi>
+               </p>
+               <p>P. 19. And this certainly hath ever been one of the most fatal miscarriages of all Governours that have gone about to govern <hi>un<g ref="char:EOLhyphen"/>ruly</hi> Consciences by more easie and remiss Laws, than those that are onely able to suppress <hi>scandalous</hi> and confessed <hi>Villanies.</hi>
+               </p>
+               <p>P. 78. Are not wrong Notions of the Divine Worship as de<g ref="char:EOLhyphen"/>structive of the Peace and Settlement of Commonwealths, as the most <hi>vitious</hi> and licentious <hi>Debaucheries?</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Moral Vertues and Grace, not of a different nature or respect, but the same on all Accounts and Considerations.</head>
+               <p>P. 65. <hi>Contents.</hi> Of the <hi>villany</hi> of those mens Religion, that are wont to distinguish between <hi>Grace</hi> and <hi>Vertue.</hi>
+               </p>
+               <p>P. 68. The Precepts of the Moral Law are both perfective of our own <hi>natures,</hi> and conducive to the happiness of <hi>others;</hi> and
+<pb n="12" facs="tcp:56839:7"/>the practise of <hi>Vertue</hi> consists in living suitably to the Dictates of <hi>Reason and Nature.</hi> And this is the substance and main design of all the Laws of Religion, to oblige mankind to behave themselves in all their Actions, as becomes Creatures endowed with Reason and Understanding, and in ways suitable to Rational Beings, to prepare and qualifie themselves for the state of Glory and Im<g ref="char:EOLhyphen"/>mortality.</p>
+               <p>P. 69. So that <hi>moral</hi> vertue having the strongest and most ne<g ref="char:EOLhyphen"/>cessary influence upon the end of all <hi>Religion</hi> (viz.) man's happi<g ref="char:EOLhyphen"/>ness; it is not only its most material and useful part, but the <hi>ul<g ref="char:EOLhyphen"/>timate</hi> end of all its other duties, and all true <hi>Religion</hi> can consist in nothing <hi>else</hi> but either the practise of Vertue it self, or the use of those means and instruments that contribute to it.</p>
+               <p>P. 71. All <hi>Religion</hi> then (I mean the practical part) is either <hi>Vertue</hi> it self, or some of its <hi>instruments,</hi> and the whole <hi>duty</hi> of man consists in being <hi>vertuous, &amp;c.</hi>
+               </p>
+               <p>P. 72. All that the <hi>Scripture</hi> intends by the <hi>Graces</hi> of the <hi>Spi<g ref="char:EOLhyphen"/>rit,</hi> are only vertuous <hi>qualities</hi> of the Soul, that are therefore stiled <hi>Graces,</hi> because they are derived purely from God's free <hi>Grace</hi> and <hi>Goodness.</hi>
+               </p>
+               <p>P. 76. So that all <hi>Religion</hi> must of necessity be resolved into <hi>Enthusiasm</hi> or <hi>Morality.</hi> The former is meer <hi>imposture,</hi> and therefore all that is <hi>true</hi> must be reduced to the <hi>latter.</hi>
+               </p>
+               <p>P. 77. The whole state of <hi>affairs</hi> is briefly this; <hi>Man</hi> is sent into the <hi>world</hi> to live <hi>happily</hi> here, and <hi>prepare</hi> himself for <hi>happiness</hi> hereafter; this is <hi>attained</hi> by the practise of <hi>Moral</hi> Vertues, and <hi>Pious</hi> Devotions.</p>
+            </div>
+            <div type="part">
+               <head>Tender Consciences, scornfully vilified and reproached.</head>
+               <p>P. 269. A weak <hi>Conscience</hi> is the product of a weak <hi>Understan<g ref="char:EOLhyphen"/>ding;</hi> and he is a very <hi>subtle</hi> Man that can find the difference be<g ref="char:EOLhyphen"/>tween a tender <hi>Head</hi> and a tender <hi>Conscience.</hi>
+               </p>
+               <p>P. 272. Doubts are the natural products of <hi>Ignorance,</hi> Weak<g ref="char:EOLhyphen"/>ness is their <hi>Parents,</hi> and Folly their <hi>Nurse.</hi>
+               </p>
+               <p>P. 279. Weakness of <hi>Conscience,</hi> alwayes proceeds in some measure from <hi>want</hi> of <hi>wit.</hi>
+               </p>
+               <pb n="13" facs="tcp:56839:7"/>
+               <p> P. 285. And therefore such untoward and <hi>humoursome</hi> Saints must be <hi>lashed</hi> out of their <hi>sullenness,</hi> otherwise they will be an <hi>E<g ref="char:EOLhyphen"/>ternal</hi> annoyance to all Government, with the <hi>childish</hi> and <hi>whi<g ref="char:EOLhyphen"/>ning</hi> pretences of a weak and crazy <hi>Conscience.</hi>
+               </p>
+               <p>The tenderness of their <hi>Consciences</hi> (for which forsooth they must be born with) consists in nothing else but their being the greatest and most notorious <hi>Hereticks.</hi>
+               </p>
+               <p>And now upon the result of these particulars, I leave it first to the publick <hi>Authority</hi> to consider, whether it be not a wonderful wise piece of <hi>good nature</hi> to be tender and indulgent to these poor tender <hi>Consciences.</hi>
+               </p>
+               <p>P. 306. It is prodigiously strange <hi>(and yet as common too)</hi> to consider how <hi>most</hi> men, who pretend <hi>(and that perhaps sincerely)</hi> to great tenderness of <hi>Conscience,</hi> and scruple <hi>postures</hi> and inno<g ref="char:EOLhyphen"/>cent <hi>Ceremonies,</hi> are so hardy as to <hi>digest</hi> the most wicked and <hi>most</hi> mischievous <hi>villanies.</hi>
+               </p>
+               <p>And therefore instead of being <hi>complyed</hi> with, they must be <hi>re<g ref="char:EOLhyphen"/>strained</hi> with a more <hi>peremptory</hi> &amp; <hi>unyielding</hi> rigour than <hi>naked</hi> and unsanctified <hi>villanies,</hi> else they will quickly discover themselves to be <hi>pregnant</hi> with greater and more <hi>fatal</hi> dangers.</p>
+            </div>
+            <div type="part">
+               <head>Publick Conscience.</head>
+               <p>P. 308. In cases &amp; <hi>disputes</hi> of <hi>a publick</hi> Concern, private Men are not properly <hi>sui Juris,</hi> they have no <hi>power</hi> over their own <hi>acti<g ref="char:EOLhyphen"/>ons,</hi> they are not to be directed by their own <hi>judgments,</hi> or deter<g ref="char:EOLhyphen"/>mined by their own <hi>wills,</hi> but by the commands and determinati<g ref="char:EOLhyphen"/>ons of the <hi>publick</hi> Conscience. And if there be any <hi>sin</hi> in the <hi>command,</hi> he that imposed it shall <hi>answer</hi> for it, and <hi>not</hi> I, whose <hi>whole</hi> duty it is to <hi>obey.</hi>
+               </p>
+               <p>
+                  <hi>Ibid.</hi> The Commands of <hi>Authority</hi> will warrant my <hi>Obedience,</hi> my <hi>obedience</hi> will <hi>hallow</hi> or at least <hi>excuse</hi> my <hi>action,</hi> and so secure me from <hi>sin,</hi> if not from <hi>error,</hi> because I follow the best <hi>guide</hi> and most probable <hi>direction</hi> I am capable of; and though I may <hi>mi<g ref="char:EOLhyphen"/>stake,</hi> my <hi>integrity</hi> shall preserve my <hi>innocence.</hi> And in all doubt<g ref="char:EOLhyphen"/>ful and disputable <hi>cases,</hi> it is better to <hi>err</hi> with Authority, than to be in the <hi>right</hi> against it,</p>
+               <pb n="14" facs="tcp:56839:8"/>
+               <p> P. 309. And therefore in <hi>all</hi> such matters, their <hi>commands</hi> are the Supream <hi>rule</hi> of Conscience.</p>
+            </div>
+            <div type="part">
+               <head>Christian Liberty.</head>
+               <p>P. 92. Mankind therefore <hi>have</hi> the same natural <hi>right</hi> to liber<g ref="char:EOLhyphen"/>ty of <hi>Conscience,</hi> as in affairs of <hi>justice</hi> and honesty; <hi>i. e.</hi> a liberty of <hi>judgement,</hi> but not of <hi>practice.</hi> They have an inviolable <hi>free<g ref="char:EOLhyphen"/>dom</hi> to examine the goodness of all <hi>Lawes,</hi> Moral and Ecclesiasti<g ref="char:EOLhyphen"/>cal, and to judge of them by their suitableness to the natural rea<g ref="char:EOLhyphen"/>sons of <hi>good</hi> and <hi>evil;</hi> but as for <hi>the</hi> practise of all outward <hi>acti<g ref="char:EOLhyphen"/>ons</hi> either of <hi>Vertue</hi> or <hi>Devotion,</hi> they are equally governable by the Laws and Constitutions of Commonwealths; and men may with the same pretence of <hi>Reason,</hi> challenge an exemption from all humane Laws in matters of common <hi>honesty,</hi> upon the score of the <hi>freedom</hi> of their <hi>Consciences,</hi> as they <hi>plead</hi> a liberty from all Authority in duties of <hi>Religious worship</hi> upon the same <hi>account,</hi> because they have a <hi>freedom</hi> of <hi>judgment</hi> in both, of <hi>practice</hi> in neither.</p>
+               <p>
+                  <hi>Ibid.</hi> And upon the reasonableness of this <hi>Principle,</hi> is foun<g ref="char:EOLhyphen"/>ded the Duty (or rather priviledge) of <hi>Christian Liberty.</hi>
+               </p>
+               <p>P. 94. So that Christian <hi>Liberty,</hi> or the inward freedom of our <hi>judgments</hi> may be preserved <hi>inviolable</hi> under the <hi>restraints</hi> of the Civil Magistrate, which are <hi>outward,</hi> and concern only the <hi>acti<g ref="char:EOLhyphen"/>ons</hi> not <hi>judgments</hi> of men.</p>
+               <p>P. 95. The <hi>whole</hi> affair of Christian <hi>liberty,</hi> relates only to our inward <hi>judgment</hi> of things; and provided this be kept <hi>inviolate,</hi> it matters not (as to that concern) what <hi>restraints</hi> are laid upon our <hi>outward</hi> actions.</p>
+               <p>
+                  <hi>Ibid.</hi> As long as we <hi>obey</hi> the determinations of our <hi>Superiors,</hi> with an opinion of the <hi>indifferency</hi> of the things themselves, we retain the <hi>power</hi> of our Christian <hi>liberty,</hi> and are still <hi>free</hi> as to the matter of the <hi>Law,</hi> though not as to the <hi>Duty</hi> of Obedi<g ref="char:EOLhyphen"/>ence.</p>
+               <p>P. 301. Where the dictates of a private <hi>Conscience</hi> happen to thwart the <hi>determinations</hi> of the publick Laws, <hi>they</hi> in that <hi>case</hi> lose their binding <hi>power.</hi>
+               </p>
+               <pb n="15" facs="tcp:56839:8"/>
+               <p> P. 303. And therefore to <hi>act</hi> against the inclinations of our own <hi>doubts</hi> and scruples, is so far from being <hi>criminal,</hi> that it is an eminent instance of <hi>vertue.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Uncharitable and bitter Censures.</head>
+               <p>P. 105. And therefore to quarrel with those <hi>Forms</hi> of Pub<g ref="char:EOLhyphen"/>lick <hi>worship,</hi> which are established by Authority, only because they are <hi>humane</hi> Institutions, is at once notorious <hi>Schism</hi> and <hi>Re<g ref="char:EOLhyphen"/>bellion.</hi>
+               </p>
+               <p>He that acts <hi>cross</hi> to the Commands of <hi>Authority,</hi> he is a <hi>proud</hi> and <hi>factious</hi> person.</p>
+               <p>P. 221. If they would but make it part of their business to undeceive the <hi>People;</hi> but they <hi>dare</hi> not let them know their <hi>Er<g ref="char:EOLhyphen"/>rours,</hi> lest they should forfeit both their <hi>Party</hi> and their <hi>Repu<g ref="char:EOLhyphen"/>tation.</hi>
+               </p>
+               <p>P. 273. And then he pretends <hi>Conscience,</hi> only to vouch his <hi>Humour</hi> and his <hi>Insolence.</hi> i. e. he is a <hi>Villain</hi> and an <hi>Hypocrite.</hi>
+               </p>
+               <p>P. 277. The truth of it is, Some men <hi>study</hi> for impertinent Scruples; they have <hi>enslaved</hi> themselves to their <hi>follies,</hi> and are <hi>resolved</hi> to grow old in a voluntary bondage to Trifles and Fooleries.</p>
+               <p>P. 284. And as <hi>queazy</hi> as it is <hi>(Conscience he means)</hi> in re<g ref="char:EOLhyphen"/>ference to its Superiors Commands; 'tis usually <hi>strong</hi> enough to <hi>digest</hi> Rebellion and villany; and whilst it rises against a poor innocent <hi>Ceremony,</hi> it is scarce ever stir'd with Schism, <hi>Fa<g ref="char:EOLhyphen"/>ction,</hi> and Cruelty.</p>
+            </div>
+            <div type="part">
+               <head>The Churches absolute Power in the Exterior part of God's Publick Worship.</head>
+               <p>P. 104. In the <hi>Mosaick</hi> dispensation, indeed God took special care to prescribe the <hi>particular</hi> Rites and Ceremonies of his <hi>Wor<g ref="char:EOLhyphen"/>ship,</hi> not so much by reason of the <hi>necessity</hi> of the <hi>thing</hi> it self, as because of the sottishness and stupidity of that Age, <hi>&amp;c.</hi> But when mankind was grown up to a <hi>riper</hi> understanding, then did God cancel the old <hi>Discipline</hi> of the <hi>Law,</hi> and by the Ministry of
+<pb n="16" facs="tcp:56839:9"/>Jesus Christ established a more <hi>manly</hi> and <hi>rational</hi> Dispensation: in which, as he hath been nore <hi>sollicitous</hi> to acquaint us with the <hi>main</hi> and fundamental <hi>Articles</hi> of <hi>Religion;</hi> so has he <hi>scarce</hi> at all concerned himself in <hi>exterior</hi> Rites and Significations <hi>(the two Sacraments excepted)</hi> but for all other <hi>Rites</hi> and Ceremonies of <hi>ex<g ref="char:EOLhyphen"/>ternal Service,</hi> he has left their <hi>intire</hi> disposal to the <hi>power</hi> and <hi>dis<g ref="char:EOLhyphen"/>cretion</hi> of the <hi>Church</hi> it self; knowing, that as <hi>long</hi> as men had <hi>wit</hi> and <hi>reason</hi> enough to manage the <hi>civil</hi> Affairs of Commonwealths, they could not <hi>want</hi> Prudence to judge what circumstances were conducive to <hi>Order</hi> and <hi>Decency</hi> in Publick Worship.</p>
+            </div>
+            <div type="part">
+               <head>Scripture, no adequate Rule of Worship.</head>
+               <p>P. 174. That <hi>nothing</hi> ought to be established in the <hi>Worship</hi> of God, but what is authorised by some <hi>Precept</hi> or <hi>Example</hi> in the <hi>Word</hi> of God, that is the complete and <hi>adequate</hi> Rule of Wor<g ref="char:EOLhyphen"/>ship: This very Principle is the only <hi>fountain</hi> and <hi>foundation</hi> of all <hi>Puritanism.</hi>
+               </p>
+               <p>P. 180. Why are not the <hi>Holy</hi> Scriptures as perfect a Rule of <hi>Civil</hi> as of <hi>Ecclesiastical</hi> Policy? Why should they not be as com<g ref="char:EOLhyphen"/>plete a <hi>Systeme</hi> of <hi>Ethicks,</hi> as they are a <hi>Canon</hi> of <hi>Worship?</hi> Why do not these men require from the Scriptures express commands for every <hi>action</hi> they do in <hi>common</hi> life?</p>
+               <p>P. 181. How dare they take any <hi>Physick</hi> but what is prescribed in the <hi>Word of God?</hi> How dare they <hi>Commence</hi> a Suit at Law, with<g ref="char:EOLhyphen"/>out <hi>warranty</hi> from Scripture? How dare they do any natural <hi>action</hi> without particular <hi>advice</hi> and direction of <hi>Holy</hi> writ?</p>
+               <p>P. 196. And this may suffice to demonstrate the unparallel'd Follies and Mischiefs of this Principle.</p>
+            </div>
+            <div type="part">
+               <head>Magistrates incited to Severity against <hi>Nonconformists.</hi>
+               </head>
+               <p>P. 253. In <hi>brief,</hi> the only <hi>cause</hi> of all our troubles and distur<g ref="char:EOLhyphen"/>bances, is the inflexible perversness of about an <hi>hundred</hi> proud, ignorant and <hi>Seditious</hi> Preachers, against whom if the <hi>severity</hi> of the Laws were particularly <hi>levelled,</hi> how easie would it be, in some competent time, to <hi>reduce</hi> the people, <hi>&amp;c,</hi>
+               </p>
+               <pb n="17" facs="tcp:56839:9"/>
+               <p> P. 257. Princes have no reason to abridge themselves in the ex<g ref="char:EOLhyphen"/>ercise of their lawful Power, <hi>onely</hi> because some of their Subjects <hi>will</hi> not learn to be modest and ingenious.</p>
+               <p>P. 270. Governours must look to the <hi>Publick,</hi> and let <hi>Tender Consciences</hi> look to <hi>Themselves.</hi>
+               </p>
+               <p>P. 271. And therefore if Princes will be resolute, <hi>(and if they will govern, so they must be)</hi> they may easily make the most <hi>stubborn</hi> Consciences bend to their Commands: But if they will not, they must submit Themselves and their Power to all the follies and pas<g ref="char:EOLhyphen"/>sions of their Subjects: For there are no Conceits so extravagant, or so pernicious, that may not pass for Principles of Consci<g ref="char:EOLhyphen"/>ence.</p>
+               <p>P. 286. In the mean while, we <hi>see</hi> what is to be done in the Case of Tender <hi>Consciences.</hi> If they are acted by <hi>calm</hi> and peaceable <hi>Principles,</hi> they will not <hi>desire</hi> liberty; if they are not, they will not <hi>deserve it.</hi>
+               </p>
+               <p>
+                  <hi>P.</hi> 309. And every Conscience that is not <hi>thus</hi> perswaded, is upon that <hi>account</hi> to be reckoned as <hi>seditious</hi> and unpeaceable, and so to be <hi>treated</hi> accordingly.</p>
+               <p>And now <hi>Christian Reader,</hi> be thou of what <hi>Party</hi> or Profession <hi>soever,</hi> judge whether the <hi>Author</hi> of these recited <hi>Passages,</hi> be as he would perswade the World, of a <hi>tame and softly humour, and so cold a Complexion, that he is not capable of hot and fiery impressions.</hi> Sure this kind of Language was born not under the <hi>frigid</hi> but <hi>tor<g ref="char:EOLhyphen"/>rid</hi> Zone. If he be thus <hi>fiery</hi> in his <hi>cold Fit,</hi> what shall be expected from him in his <hi>hot?</hi> If he be so <hi>mad</hi> when he is <hi>tame,</hi> that nothing can bound his <hi>fire</hi> and <hi>fury;</hi> alas who durst think of seeing him in a <hi>wild</hi> humour? If Lightning, Storms and Thunder, trouble a <hi>se<g ref="char:EOLhyphen"/>rene Air,</hi> what Tempests will a <hi>troubled</hi> have? Doth the <hi>coolness</hi> of his <hi>Spirit</hi> produce such <hi>heat,</hi> what will the <hi>boylings</hi> of his <hi>Passion</hi> do? But I rather think the <hi>Gentleman</hi>'s mistaken in his own <hi>Com<g ref="char:EOLhyphen"/>plexion,</hi> and is too <hi>partial</hi> in his own <hi>Character.</hi> He would do well to consult his <hi>late</hi> Book, to rectifie his Apprehensions, and calcu<g ref="char:EOLhyphen"/>late his <hi>Temper</hi> from that <hi>Meridian:</hi> There he hath formed his <hi>Effigie,</hi> raised his <hi>Statue,</hi> limned and pourtrayed himself to the
+<pb n="18" facs="tcp:56839:10"/>
+                  <hi>Life.</hi> An Enterprize impossible for any other Person to have ac<g ref="char:EOLhyphen"/>complished: For Charity would have obliged others to a better <hi>opinion</hi> of him, than he hath now plainly told us he <hi>merits.</hi> They would have <hi>drawn</hi> him to some likelier advantage. And because he is a <hi>Minister,</hi> and an <hi>Archbishops Chaplain,</hi> it must necessarily have been <hi>said,</hi> He is questionless a Man of <hi>Conscience,</hi> Honesty, Candour, and good Nature; but he has declared the quite contra<g ref="char:EOLhyphen"/>ry; and is not ashamed publiquely to relinquish the least interest in those Noble Qualities. His <hi>Friends</hi> and <hi>Admirers</hi> are behold<g ref="char:EOLhyphen"/>ing to him for undeceiving them. It is indeed something strange, that he who <hi>boldly</hi> determines <hi>Religion</hi> to be nothing else but <hi>Mo<g ref="char:EOLhyphen"/>rality,</hi> and terms them <hi>Villains</hi> who offer to suppose a distinction; should yet be so manifestly defective in <hi>common Vertues.</hi> Are not not the <hi>Violences</hi> of Passion, Pride, Fury, Malice, and Insolence, <hi>Immoralities,</hi> and great ones too? How easie upon his own <hi>Prin<g ref="char:EOLhyphen"/>ciples,</hi> may we prove him a <hi>Graceless</hi> Person? If all the mention<g ref="char:EOLhyphen"/>ed Evils (and a Complication of many others) do not evidently shew themselves in his late <hi>Discourse,</hi> I have lost my <hi>Sense</hi> and <hi>Reason.</hi> They are but some Expressions (amongst a multitude of the like nature) that I have collected together; for a fuller satis<g ref="char:EOLhyphen"/>faction I refer the <hi>Reader</hi> to the Book it self. <hi>Wise</hi> and <hi>sober</hi> men are astonished at his Extravagancies and intemperate Railings, cannot guess at his <hi>Design,</hi> unless it be <hi>(under the Colour of opposing Toleration, and aspersing the Phanaticks)</hi> to throw dirt on Christia<g ref="char:EOLhyphen"/>nity it self; and instead of the Gospel of Jesus Christ, to intro<g ref="char:EOLhyphen"/>duce an <hi>Ethnical</hi> Religion. For should his <hi>notions</hi> be embraced, Faith, Justification, the Merit of Christ, and Salvation by it, may reasonably be <hi>exploded,</hi> and a <hi>Philosophical Creed</hi> justle out the <hi>Chri<g ref="char:EOLhyphen"/>stian.</hi> For else what is the import of that passage, page 77. <hi>The whole state of Affairs is briefly this; Man is sent into the world to live happily here, and prepare himself for happiness hereafter; this is attained by the practise of Moral Vertues, and Pious Devotions.</hi> If <hi>Moral</hi> Vertues have so <hi>full</hi> an influence into a Christians <hi>felicity,</hi> in vain do men <hi>talk</hi> of a Mediator; people <hi>need</hi> not trouble them<g ref="char:EOLhyphen"/>selves about the <hi>Son</hi> of God: And <hi>Socrates, Seneca,</hi> and <hi>Plato,</hi> were in the <hi>right</hi> Religion, and the <hi>path-way</hi> to Heaven. Chri<g ref="char:EOLhyphen"/>stianity, not a <hi>whit</hi> superior to Paganism; we may even part with
+<pb n="19" facs="tcp:56839:10"/>our <hi>Bibles,</hi> or only read them as <hi>Romances,</hi> to spend an <hi>idle</hi> hour. Some therefore think, the <hi>young man</hi> had a mind to be taken no<g ref="char:EOLhyphen"/>tice of, and doubting whether his <hi>wit</hi> would make him famous e<g ref="char:EOLhyphen"/>nough, he resolved his <hi>wickedness</hi> should; like the poor obscure Fellow in <hi>Ephesus,</hi> that to perpetuate his Name, burnt down the <hi>Temple</hi> of <hi>Diana.</hi> Others are inclined to think, <hi>He</hi> writ this Book, more out of <hi>humour</hi> than <hi>design,</hi> to sport himself a while. And the rather do they imagine it, because he has in his Preach<g ref="char:EOLhyphen"/>ing vented wild and untoward <hi>Notions;</hi> being told of, and blamed for it, he hath used to put off all with a <hi>Pish, he was but in jest, and he spoke as the present fancy or humour took him.</hi> However it <hi>be,</hi> the thing is highly criminal and notoriously <hi>wicked.</hi> I pray God shew him wherein he has <hi>offended,</hi> that he may do no more <hi>so</hi> wick<g ref="char:EOLhyphen"/>edly. I doubt not but he will <hi>scoff</hi> at me for interesting my self so much in his concerns, but I care not; let him take heed that that Scripture be not one <hi>day</hi> sadly fulfilled upon him, That <hi>God shall laugh at his calamity, and mock when his fear cometh.</hi> I might tell the <hi>Reader</hi> of a <hi>Sermon</hi> he preached lately at <hi>Covent-Garden-Church,</hi> much of the same <hi>complexion</hi> with his Book, decrying an <hi>imputed</hi> Righteousness, railing at <hi>Phanaticks,</hi> jearing them with <hi>lolling</hi> upon Christ, calling them <hi>Lubberly Believers,</hi> &amp;c. Aspersing our Learned and Pious <hi>Reformers</hi> of Religion, openly asserting that they wanted either <hi>Wit</hi> or <hi>Judgement.</hi> Besides the <hi>Popish Doctrine</hi> then delivered, that Good Works are the <hi>Causes</hi> of Justi<g ref="char:EOLhyphen"/>fication. And such-like <hi>strains</hi> as these doth he commonly <hi>stuff</hi> his Discourses withal.</p>
+               <p>But I shall no further trouble the <hi>Reader</hi> with an account of his <hi>drolling</hi> and prophane Wit: I intend neither an <hi>Answer</hi> to, nor <hi>Animadersions</hi> on his Book: I am too conscious of my own weak<g ref="char:EOLhyphen"/>ness and incapacity for such a Work. I shall but acquaint thee with one particular, liable it may be to mis-construction, and that is, about the Magistrates Dominion in Ecclesiastical Matters. I am far from disowning their Power, I do not at all question his Majesties <hi>Right</hi> in the Government of the <hi>Church</hi> and <hi>State</hi> both; and when the Publick Ministry pray for him, as being <hi>in all Causes, and over all Persons, &amp;c.</hi> I do not refuse my Assent. Onely in my poor Opinion, Mr. <hi>P.</hi> has given the Magistrate that <hi>absolute</hi> Au<g ref="char:EOLhyphen"/>thority
+<pb n="20" facs="tcp:56839:11"/>which I think no Christian <hi>Prince</hi> ever claimed; not ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>redge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>ignorance,</hi> (as he confidently insinuates) but from a sense and conviction it belong'd not to their Prerogative. He is the <hi>First,</hi> and <hi>Onely</hi> Person that I know, or have heard of, who hath subject<g ref="char:EOLhyphen"/>ed Conscience so <hi>unlimitedly</hi> to Secular Soveraignty and Domina<g ref="char:EOLhyphen"/>tion. However, supposing this an <hi>Error</hi> in me, I am thus far <hi>innocent,</hi> in barely relating his words upon this Subject, leaving it to the Construction of the <hi>Peruser,</hi> without affixing any sence of my <hi>own</hi> upon them.</p>
+               <p>And <hi>now</hi> Reader, I shall no longer trespass on thy patience, but onely take the liberty to <hi>wish</hi> a happy end of all our Diffe<g ref="char:EOLhyphen"/>rences and Divisions, the blotting out all Names of Distinction, and the promoting of <hi>Catholick Charity</hi> amongst Brethren: That all true Christians may endeavour to preserve <hi>the Ʋnity of the Spi<g ref="char:EOLhyphen"/>rit in the Bond of Peace.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
